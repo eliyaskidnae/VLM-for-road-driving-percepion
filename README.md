@@ -14,7 +14,7 @@ The system provides a simple web interface built with Gradio. The driving video 
 The interface periodically sends the current video segment and prompt to the VLM and displays the generated explanation. The user can control the analysis interval, video context length, frame-sampling rate, and output length. Previous model responses are also displayed as a reasoning history.
 <!-- add media video  -->
 [▶ Watch the driving demo](media/driving_video.mp4)
-
+https://github.com/user-attachments/assets/36f7cb04-fb83-419b-9f32-4b2c41e8cce5
 ### 3. Experimental Hardware
 The experiments were performed using:
 
