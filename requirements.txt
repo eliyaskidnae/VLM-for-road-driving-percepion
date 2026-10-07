@@ -1,0 +1,6 @@
+transformers>=4.49
+accelerate>=1.0
+qwen-vl-utils[decord]
+gradio>=5.0
+opencv-python-headless>=4.10
+Pillow>=10.0
